@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,d as r}from"./app.18b2d180.js";const p=JSON.parse('{"title":"nbbb","description":"","frontmatter":{},"headers":[],"relativePath":"bbb.md"}'),d={name:"bbb.md"},n=r("",2),s=[n];function i(l,o,b,c,_,h){return a(),e("div",null,s)}const x=t(d,[["render",i]]);export{p as __pageData,x as default};
